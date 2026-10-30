@@ -119,8 +119,3 @@ graph TD
 - **Head, heart, character:** Logos (head), Pathos (heart), Ethos (character).
 - **Inside out:** Personal leadership first, then relational, then the rest.
 - **Banga/Barra/Nadella:** measure, own it, listen.
-
-## 6. Actionable Next Steps & Deliverables
-
-**Draft 11.1 sentence template:**\
-"Over the next 90 days, I will improve my \[leadership behavior\] by \[2 to 3 specific actions\], and I will measure my progress through \[feedback, outcomes, or indicators\]."
